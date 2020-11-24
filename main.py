@@ -1,4 +1,11 @@
-# Data Preprocessing
+# requirement
+# tensorflow
+# cuda 10.1
+# keras
+# pandas
+# matplotlib
+# scikitlearn
+
 # Mengimport  librari
 import numpy as np #numpy untuk komputasi
 import matplotlib.pyplot as plt #matplotlib untuk visualisasi
